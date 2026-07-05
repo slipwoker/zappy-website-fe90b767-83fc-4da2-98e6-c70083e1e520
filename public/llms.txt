@@ -80,7 +80,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 2**
+**Total active products: 3**
+
+### חליפת ארגנטינה בית 2026
+https://example.com/product/chlypt-argntynh-byt-2026-s4r3hb
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מונדיאל 2026
 
 ### חליפת ברצלונה בית עונת 26/27
 https://example.com/product/chlypt-brtslvnh-byt-avnt-2627-a18ohg

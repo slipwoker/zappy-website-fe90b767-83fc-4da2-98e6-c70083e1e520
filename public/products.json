@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T09:49:53.929Z",
+  "generated_at": "2026-07-05T09:54:14.837Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 2,
+  "count": 3,
   "products": [
+    {
+      "id": "57f7139b-fd38-45b5-8da3-342e6f68ec71",
+      "slug": "chlypt-argntynh-byt-2026-s4r3hb",
+      "name": "חליפת ארגנטינה בית 2026",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-argntynh-byt-2026-s4r3hb",
+      "categories": [
+        "מונדיאל 2026"
+      ],
+      "updated_at": "2026-07-05T09:53:07.526Z"
+    },
     {
       "id": "de8c388a-94d6-4529-818d-9e81b6a27986",
       "slug": "chlypt-brtslvnh-byt-avnt-2627-a18ohg",

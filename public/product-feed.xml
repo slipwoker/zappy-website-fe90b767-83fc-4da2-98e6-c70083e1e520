@@ -4,7 +4,19 @@
     <title>Football city</title>
     <link>https://example.com</link>
     <description>Product feed for Football city</description>
-    <lastBuildDate>Sun, 05 Jul 2026 09:49:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 09:54:14 GMT</lastBuildDate>
+    <item>
+      <g:id>57f7139b-fd38-45b5-8da3-342e6f68ec71</g:id>
+      <g:title>חליפת ארגנטינה בית 2026</g:title>
+      <g:description>חליפת ארגנטינה בית 2026</g:description>
+      <g:link>https://example.com/product/chlypt-argntynh-byt-2026-s4r3hb</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Football city</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מונדיאל 2026</g:product_type>
+    </item>
     <item>
       <g:id>de8c388a-94d6-4529-818d-9e81b6a27986</g:id>
       <g:title>חליפת ברצלונה בית עונת 26/27</g:title>
