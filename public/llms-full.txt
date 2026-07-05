@@ -2370,6 +2370,16 @@ Description: המוצרים שלנו - Football city
 
 
 
+הוסף את תוכן הטקסט שלך כאן. זהו טקסט ממלא מקום שניתן לערוך.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6025,7 +6035,7 @@ Availability: In stock
 ---
 
 ### חליפת ריאל מדריד בית עונת 26/27
-URL: https://example.com/product/chlypt-ryal-mdryd-byt-avnt-2627-a1qrkh
+URL: https://example.com/product/chlypt-ryal-mdryd-byt-avnt-2627-ylkal2
 Price: 109.90 ILS (sale, was 149.90 ILS)
 Availability: In stock
 
