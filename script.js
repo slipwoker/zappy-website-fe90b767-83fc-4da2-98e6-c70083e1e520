@@ -5688,6 +5688,8 @@ function stripHtmlToText(html) {
     const orderDetailsSection = document.getElementById('order-details-section');
     const orderItemsList = document.getElementById('order-items-list');
     const orderTotalsSummary = document.getElementById('order-totals-summary');
+    const transactionDetails = document.querySelector('.order-success-details');
+    if (transactionDetails) transactionDetails.style.display = 'none';
     
     // If the i18n runtime replaced the H1's innerHTML (stripping the span),
     // re-inject the span so confirm-order and order display still work.
@@ -5709,10 +5711,13 @@ function stripHtmlToText(html) {
       return;
     }
     
-    // Extract order number from reference (format: zappy_websiteId_timestamp)
+    // Keep the receipt neutral until confirmed order/course data arrives.
+
+    
     const parts = reference.split('_');
+
+    
     const orderDisplay = parts.length >= 3 ? parts[2] : reference;
-    if (orderNumberEl) orderNumberEl.textContent = '#' + orderDisplay;
     
     // Confirm/create the order on the server (in case webhook didn't fire)
     const websiteId = window.ZAPPY_WEBSITE_ID;
@@ -5740,7 +5745,7 @@ function stripHtmlToText(html) {
             confirmedOrderData = confirmData.data.orderData;
           }
           // Update order number to the official one if available
-          if (confirmData.data.orderNumber && orderNumberEl) {
+          if (confirmData.data.orderNumber && orderNumberEl && !confirmData.data.isCoursesMode) {
             orderNumberEl.textContent = '#' + confirmData.data.orderNumber;
           }
           if (confirmData.data.loginToken) {
@@ -5858,8 +5863,9 @@ function stripHtmlToText(html) {
             var titleEl = document.querySelector('.order-success-title');
             var continueBtn = document.querySelector('.continue-home-btn');
             var detailLabels = document.querySelectorAll('.order-success-detail-label');
+            var courseTitle = orderData.primaryCourseName || (orderData.courseNames && orderData.courseNames[0]) || '';
             if (titleEl) {
-              titleEl.innerHTML = getEcomText('thankYouOrder', t.thankYouOrder || 'Thank you for your order') + ' <span class="order-number-inline" id="order-number-value">' + orderNumberEl.textContent + '</span>';
+              titleEl.innerHTML = getEcomText('thankYouOrder', t.thankYouOrder || 'Thank you for enrolling in') + ' <span class="order-number-inline" id="order-number-value">' + (courseTitle || getEcomText('yourCourse', 'your course')) + '</span>';
             }
             if (detailLabels[0]) detailLabels[0].textContent = getEcomText('transactionDate', t.transactionDate || t.orderDate || 'Date');
             if (detailLabels[1]) detailLabels[1].textContent = getEcomText('paymentMethod', t.paymentMethod || 'Payment Method');
@@ -5878,7 +5884,9 @@ function stripHtmlToText(html) {
           if (paymentEl && orderData.paymentMethodName) {
             paymentEl.textContent = orderData.paymentMethodName;
           }
-          if (shippingEl && orderData.shippingMethodName) {
+          if (shippingEl && isCourseSuccess) {
+            shippingEl.textContent = getEcomText('courseAccessMethod', t.courseAccessMethod || (isRTL ? 'גישה דיגיטלית מקוונת' : 'Online course access'));
+          } else if (shippingEl && orderData.shippingMethodName) {
             var shippingText = orderData.shippingMethodName;
             if (orderData.shippingIsPickup) {
               shippingText += '. ' + (isRTL ? 'איסוף עצמי' : 'Store pickup');
@@ -5888,6 +5896,7 @@ function stripHtmlToText(html) {
           if (emailEl && orderData.customerEmail) {
             emailEl.textContent = getEcomText('orderConfirmation', t.orderConfirmation || 'A confirmation email has been sent to') + ' ' + orderData.customerEmail;
           }
+          if (transactionDetails) transactionDetails.style.display = '';
           
           // Show order details
           if (orderDetailsSection) orderDetailsSection.style.display = 'block';
@@ -5907,7 +5916,7 @@ function stripHtmlToText(html) {
           // Render totals
           if (orderTotalsSummary) {
             let totalsHtml = '<div><span>' + (t.subtotal || 'Subtotal') + ':</span><span>' + formatOrderMoney(parseFloat(orderData.subtotal || 0)) + '</span></div>';
-            if (orderData.shippingCost > 0) {
+            if (!isCourseSuccess && orderData.shippingCost > 0) {
               totalsHtml += '<div><span>' + (t.shipping || 'Shipping') + ':</span><span>' + formatOrderMoney(parseFloat(orderData.shippingCost)) + '</span></div>';
             }
             if (orderData.discount > 0) {
@@ -16458,6 +16467,8 @@ function fixContrast(){
   setTimeout(patch, 1500);
 })();
 /* ZAPPY_COURSE_ORDER_SUCCESS_RECEIPT_V1 */
+
+/* ZAPPY_COURSE_ORDER_SUCCESS_TERMINOLOGY_V1 */
 
 /* ZAPPY_CHECKOUT_FOCUS_UX_V2 */
 (function(){
