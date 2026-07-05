@@ -80,7 +80,21 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 2**
+
+### חליפת ברצלונה בית עונת 26/27
+https://example.com/product/chlypt-brtslvnh-byt-avnt-2627-a18ohg
+- Price: 109.90 ILS (sale, was 149.90 ILS)
+- Availability: In stock
+- Category: חליפות ילדים
+- Image: https://example.com/assets/product-1783239144491-xuvhfd.webp
+
+### חליפת ריאל מדריד בית עונת 26/27
+https://example.com/product/chlypt-ryal-mdryd-byt-avnt-2627-a1qrkh
+- Price: 109.90 ILS (sale, was 149.90 ILS)
+- Availability: In stock
+- Category: חליפות ילדים
+- Image: https://example.com/assets/product-1783236910623-ali97n.webp
 
 ---
 

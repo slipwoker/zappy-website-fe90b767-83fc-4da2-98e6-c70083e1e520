@@ -4,6 +4,36 @@
     <title>Football city</title>
     <link>https://example.com</link>
     <description>Product feed for Football city</description>
-    <lastBuildDate>Sun, 05 Jul 2026 07:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 09:44:30 GMT</lastBuildDate>
+    <item>
+      <g:id>de8c388a-94d6-4529-818d-9e81b6a27986</g:id>
+      <g:title>חליפת ברצלונה בית עונת 26/27</g:title>
+      <g:description>חליפת ברצלונה בית עונת 26/27</g:description>
+      <g:link>https://example.com/product/chlypt-brtslvnh-byt-avnt-2627-a18ohg</g:link>
+      <g:image_link>https://example.com/assets/product-1783239144491-xuvhfd.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783239149931-c80vy.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.90 ILS</g:price>
+      <g:sale_price>109.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Football city</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות ילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>44985774-00c5-4c55-8f95-9197ba0d3380</g:id>
+      <g:title>חליפת ריאל מדריד בית עונת 26/27</g:title>
+      <g:description>חליפת ריאל מדריד בית עונת 26/27</g:description>
+      <g:link>https://example.com/product/chlypt-ryal-mdryd-byt-avnt-2627-a1qrkh</g:link>
+      <g:image_link>https://example.com/assets/product-1783236910623-ali97n.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783236916641-i6dt3.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.90 ILS</g:price>
+      <g:sale_price>109.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Football city</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות ילדים</g:product_type>
+    </item>
   </channel>
 </rss>

@@ -1,8 +1,59 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T07:15:35.890Z",
+  "generated_at": "2026-07-05T09:44:30.864Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 2,
+  "products": [
+    {
+      "id": "de8c388a-94d6-4529-818d-9e81b6a27986",
+      "slug": "chlypt-brtslvnh-byt-avnt-2627-a18ohg",
+      "name": "חליפת ברצלונה בית עונת 26/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109.9,
+      "base_price": 149.9,
+      "sale_price": 109.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783239144491-xuvhfd.webp",
+        "https://example.com/assets/product-1783239149931-c80vy.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-brtslvnh-byt-avnt-2627-a18ohg",
+      "categories": [
+        "חליפות ילדים"
+      ],
+      "updated_at": "2026-07-05T08:13:32.844Z"
+    },
+    {
+      "id": "44985774-00c5-4c55-8f95-9197ba0d3380",
+      "slug": "chlypt-ryal-mdryd-byt-avnt-2627-a1qrkh",
+      "name": "חליפת ריאל מדריד בית עונת 26/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109.9,
+      "base_price": 149.9,
+      "sale_price": 109.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783236910623-ali97n.webp",
+        "https://example.com/assets/product-1783236916641-i6dt3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-ryal-mdryd-byt-avnt-2627-a1qrkh",
+      "categories": [
+        "חליפות ילדים"
+      ],
+      "updated_at": "2026-07-05T09:40:21.357Z"
+    }
+  ]
 }
