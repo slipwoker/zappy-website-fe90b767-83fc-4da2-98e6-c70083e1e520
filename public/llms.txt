@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://football-city-fe90b767.zappy5.app
+https://example.com
 חנות החולצות הרשמית שמביאה לכם את ריאל מדריד, ברצלונה ועוד. הצטיידו עכשיו במדי הנבחרות והקבוצות האהובות לקראת מונדיאל 2026. מבחר ענק, משלוחים מהירים וחוויית קנייה מנצחת!
 
 ### אודות
-https://football-city-fe90b767.zappy5.app/about
+https://example.com/about
 גלו את הלב הפועם של Football city – המקום שבו אוהדים אמיתיים פוגשים חולצות אותנטיות של צ&#39;לסי, ליברפול ופריז סן ז&#39;רמן. אנחנו חיים ונושמים כדורגל, ומביאים לכם את התרבות העולמית עד הבית.
 
 ### מדריך חולצות
-https://football-city-fe90b767.zappy5.app/jersey-guide
+https://example.com/jersey-guide
 המדריך השלם שיעזור לכם לבחור את החולצה המושלמת – מאינטר ועד מנצ&#39;סטר סיטי. טיפים על מידות, אותנטיות וטרנדים חמים למונדיאל 2026. היכנסו והפכו למומחים עוד היום!
 
 ### גלריית אוהדים
-https://football-city-fe90b767.zappy5.app/fan-gallery
+https://example.com/fan-gallery
 גלריית תמונות מעוררת השראה של אוהדים עם חולצות ריאל מדריד, ברצלונה ופריז סן ז&#39;רמן. שתפו את התשוקה שלכם לכדורגל והצטרפו לקהילה הגלובלית שמחכה למונדיאל 2026.
 
 ### צור קשר
-https://football-city-fe90b767.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בהזמנת חולצה של צ&#39;לסי או ליברפול? צרו קשר עוד היום! אנחנו כאן בשבילכם עם שירות מהיר, מענה אישי וכל מה שצריך כדי להגיע מוכנים למונדיאל 2026.
 
 ### Products
-https://football-city-fe90b767.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Football city
 
 ### Cart
-https://football-city-fe90b767.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://football-city-fe90b767.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://football-city-fe90b767.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://football-city-fe90b767.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://football-city-fe90b767.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://football-city-fe90b767.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Football city
 
 ### Category
-https://football-city-fe90b767.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Football city
 
 ### תודה שפניתם אלינו
-https://football-city-fe90b767.zappy5.app/thank-you
+https://example.com/thank-you
 Football city - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://football-city-fe90b767.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://football-city-fe90b767.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://football-city-fe90b767.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -103,8 +103,8 @@ E-commerce / Sports Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://football-city-fe90b767.zappy5.app/sitemap.xml
-- Robots: https://football-city-fe90b767.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://football-city-fe90b767.zappy5.app/llms-full.txt
-- Products (JSON): https://football-city-fe90b767.zappy5.app/products.json
-- Products (Google Merchant RSS): https://football-city-fe90b767.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
