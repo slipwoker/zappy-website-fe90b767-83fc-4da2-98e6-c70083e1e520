@@ -12274,6 +12274,342 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+/* AI-generated section */
+/* ===== Kids Size Chart Section ===== */
+.kids-size-chart-section {
+  background: linear-gradient(180deg, #0d1f35 0%, #102A43 40%, #0a1a2e 100%);
+  padding: 80px 20px 90px;
+  font-family: system-ui, sans-serif;
+  direction: rtl;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle background pattern */
+.kids-size-chart-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    radial-gradient(circle at 15% 20%, rgba(34, 197, 94, 0.04) 0%, transparent 50%),
+    radial-gradient(circle at 85% 80%, rgba(34, 197, 94, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 50% 50%, rgba(255, 85, 0, 0.02) 0%, transparent 60%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.size-chart-container {
+  max-width: 850px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* ===== Header ===== */
+.size-chart-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.header-icon-wrapper {
+  flex-shrink: 0;
+}
+
+.header-football-icon {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 12px rgba(34, 197, 94, 0.3));
+  transition: transform 0.3s ease, filter 0.3s ease;
+  border-radius: 50%;
+}
+
+.header-football-icon:hover {
+  transform: scale(1.08) rotate(-8deg);
+  filter: drop-shadow(0 6px 18px rgba(34, 197, 94, 0.5));
+}
+
+.header-text-wrapper {
+  text-align: right;
+}
+
+.section-main-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 6px 0;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.section-subtitle {
+  font-size: 1.15rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.75);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* ===== Table Wrapper ===== */
+.table-wrapper {
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 16px;
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.3);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ===== Size Table ===== */
+.size-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  min-width: 500px;
+}
+
+.size-table thead th {
+  background: var(--primary, #102A43);
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 18px 16px;
+  text-align: center;
+  border-bottom: 3px solid #22C55E;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+}
+
+.size-table thead th:first-child {
+  border-radius: 0 10px 0 0;
+}
+
+.size-table thead th:last-child {
+  border-radius: 10px 0 0 0;
+}
+
+.size-table tbody tr {
+  transition: background-color 0.25s ease, transform 0.2s ease;
+}
+
+/* Striped rows */
+.size-table tbody tr:nth-child(odd) {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+.size-table tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+.size-table tbody tr:hover {
+  background-color: rgba(34, 197, 94, 0.1);
+  transform: scale(1.008);
+  box-shadow: 0 2px 12px rgba(34, 197, 94, 0.15);
+}
+
+.size-table tbody td {
+  padding: 16px 14px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 500;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  vertical-align: middle;
+}
+
+.size-table tbody td:first-child {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* ===== Size Badges ===== */
+.size-badge {
+  display: inline-block;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.3px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  white-space: nowrap;
+}
+
+.size-badge:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+}
+
+.size-xxs {
+  background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
+  color: #ffffff;
+}
+
+.size-xs {
+  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+  color: #ffffff;
+}
+
+.size-s {
+  background: linear-gradient(135deg, #22C55E 0%, #16a34a 100%);
+  color: #ffffff;
+}
+
+.size-m {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: #1a1a1a;
+}
+
+.size-l {
+  background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+  color: #ffffff;
+}
+
+.size-xl {
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+  color: #ffffff;
+}
+
+/* ===== Tip Section ===== */
+.size-tip {
+  margin-top: 28px;
+  padding: 18px 24px;
+  background: rgba(34, 197, 94, 0.08);
+  border: 1px solid rgba(34, 197, 94, 0.2);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.size-tip:hover {
+  background: rgba(34, 197, 94, 0.13);
+  border-color: rgba(34, 197, 94, 0.35);
+}
+
+.tip-icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
+  animation: tipPulse 2s ease-in-out infinite;
+}
+
+@keyframes tipPulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.15); }
+}
+
+.tip-text {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1.05rem;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+/* ===== Responsive Design ===== */
+@media (max-width: 768px) {
+  .kids-size-chart-section {
+    padding: 50px 16px 60px;
+  }
+
+  .size-chart-header {
+    gap: 14px;
+    margin-bottom: 28px;
+  }
+
+  .header-football-icon {
+    width: 50px;
+    height: 50px;
+  }
+
+  .section-main-title {
+    font-size: 1.8rem;
+  }
+
+  .section-subtitle {
+    font-size: 1rem;
+  }
+
+  .size-table thead th {
+    padding: 14px 10px;
+    font-size: 0.9rem;
+  }
+
+  .size-table tbody td {
+    padding: 12px 10px;
+    font-size: 0.9rem;
+  }
+
+  .size-badge {
+    padding: 5px 12px;
+    font-size: 0.8rem;
+  }
+
+  .size-tip {
+    padding: 14px 18px;
+    flex-direction: column;
+    text-align: center;
+    gap: 8px;
+  }
+
+  .tip-text {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .section-main-title {
+    font-size: 1.5rem;
+  }
+
+  .section-subtitle {
+    font-size: 0.9rem;
+  }
+
+  .header-football-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .size-table {
+    font-size: 0.8rem;
+    min-width: 400px;
+  }
+
+  .size-table thead th {
+    padding: 10px 6px;
+    font-size: 0.8rem;
+  }
+
+  .size-table tbody td {
+    padding: 10px 6px;
+    font-size: 0.8rem;
+  }
+
+  .size-badge {
+    padding: 4px 10px;
+    font-size: 0.72rem;
+    border-radius: 16px;
+  }
+
+  .table-wrapper {
+    border-radius: 12px;
+    padding: 4px;
+  }
+
+  .size-tip {
+    padding: 12px 14px;
+    border-radius: 10px;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

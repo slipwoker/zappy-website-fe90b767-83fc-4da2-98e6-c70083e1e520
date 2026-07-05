@@ -1,36 +1,158 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T09:54:14.837Z",
+  "generated_at": "2026-07-05T13:21:41.215Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 3,
+  "count": 8,
   "products": [
     {
-      "id": "57f7139b-fd38-45b5-8da3-342e6f68ec71",
-      "slug": "chlypt-argntynh-byt-2026-s4r3hb",
-      "name": "חליפת ארגנטינה בית 2026",
+      "id": "94a01501-e8ea-4dd0-b783-f09ba8ace5fa",
+      "slug": "chlypt-yldym-pvrtvgl-byt-2026-dlr0r7",
+      "name": "חליפת ילדים פורטוגל בית 2026",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
+      "price": 109.9,
+      "base_price": 149.9,
+      "sale_price": 109.9,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://example.com/assets/product-1783246315034-257jn.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlypt-argntynh-byt-2026-s4r3hb",
+      "url": "https://example.com/product/chlypt-yldym-pvrtvgl-byt-2026-dlr0r7",
       "categories": [
         "מונדיאל 2026"
       ],
-      "updated_at": "2026-07-05T09:53:07.526Z"
+      "updated_at": "2026-07-05T10:12:43.778Z"
+    },
+    {
+      "id": "b88611b8-e9d4-4a1c-834c-28661076d8d3",
+      "slug": "chlypt-yldym-anglyh-byt-2026-nsthe4",
+      "name": "חליפת ילדים אנגליה בית 2026",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109.9,
+      "base_price": 149.9,
+      "sale_price": 109.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783246199242-cc9raw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-yldym-anglyh-byt-2026-nsthe4",
+      "categories": [
+        "מונדיאל 2026"
+      ],
+      "updated_at": "2026-07-05T10:10:37.008Z"
+    },
+    {
+      "id": "405f7698-9f2b-4e5b-bff9-bd99ec886eb9",
+      "slug": "chlypt-yldym-grmnyh-byt-2026-otno1e",
+      "name": "חליפת ילדים גרמניה בית 2026",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109.9,
+      "base_price": 149.9,
+      "sale_price": 109.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783246105632-hu0r3s.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-yldym-grmnyh-byt-2026-otno1e",
+      "categories": [
+        "מונדיאל 2026"
+      ],
+      "updated_at": "2026-07-05T10:09:04.252Z"
+    },
+    {
+      "id": "645a0062-2882-4de2-b133-03b53a97dc60",
+      "slug": "chlypt-yldym-tsrpt-byt-2026-j9mjho",
+      "name": "חליפת ילדים צרפת בית 2026",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109.9,
+      "base_price": 149.9,
+      "sale_price": 109.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783245760057-3w9xx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-yldym-tsrpt-byt-2026-j9mjho",
+      "categories": [
+        "מונדיאל 2026"
+      ],
+      "updated_at": "2026-07-05T13:15:21.600Z"
+    },
+    {
+      "id": "0fadfd88-6e24-4cf6-9fd7-6399219bc449",
+      "slug": "chlypt-yldym-brzyl-byt-2026-fly4wo",
+      "name": "חליפת ילדים ברזיל בית 2026",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109.9,
+      "base_price": 149.9,
+      "sale_price": 109.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783245716998-b6hvv9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-yldym-brzyl-byt-2026-fly4wo",
+      "categories": [
+        "מונדיאל 2026"
+      ],
+      "updated_at": "2026-07-05T10:05:34.605Z"
+    },
+    {
+      "id": "57f7139b-fd38-45b5-8da3-342e6f68ec71",
+      "slug": "chlypt-yldym-argntynh-byt-2026-8gq7v9",
+      "name": "חליפת ילדים ארגנטינה בית 2026",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 109.9,
+      "base_price": 149.9,
+      "sale_price": 109.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783245652066-5rw6io.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-yldym-argntynh-byt-2026-8gq7v9",
+      "categories": [
+        "מונדיאל 2026"
+      ],
+      "updated_at": "2026-07-05T10:05:58.547Z"
     },
     {
       "id": "de8c388a-94d6-4529-818d-9e81b6a27986",
-      "slug": "chlypt-brtslvnh-byt-avnt-2627-a18ohg",
-      "name": "חליפת ברצלונה בית עונת 26/27",
+      "slug": "chlypt-yldym-brtslvnh-byt-avnt-2627-0mlinj",
+      "name": "חליפת ילדים ברצלונה בית עונת 26/27",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -46,16 +168,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlypt-brtslvnh-byt-avnt-2627-a18ohg",
+      "url": "https://example.com/product/chlypt-yldym-brtslvnh-byt-avnt-2627-0mlinj",
       "categories": [
         "חליפות ילדים"
       ],
-      "updated_at": "2026-07-05T08:13:32.844Z"
+      "updated_at": "2026-07-05T10:06:35.969Z"
     },
     {
       "id": "44985774-00c5-4c55-8f95-9197ba0d3380",
-      "slug": "chlypt-ryal-mdryd-byt-avnt-2627-ylkal2",
-      "name": "חליפת ריאל מדריד בית עונת 26/27",
+      "slug": "chlypt-yldym-ryal-mdryd-byt-avnt-2627-6b7s78",
+      "name": "חליפת ילדים ריאל מדריד בית עונת 26/27",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -71,11 +193,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlypt-ryal-mdryd-byt-avnt-2627-ylkal2",
+      "url": "https://example.com/product/chlypt-yldym-ryal-mdryd-byt-avnt-2627-6b7s78",
       "categories": [
         "חליפות ילדים"
       ],
-      "updated_at": "2026-07-05T09:46:41.633Z"
+      "updated_at": "2026-07-05T10:07:16.539Z"
     }
   ]
 }

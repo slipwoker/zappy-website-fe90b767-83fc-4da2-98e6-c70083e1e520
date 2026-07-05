@@ -4,14 +4,86 @@
     <title>Football city</title>
     <link>https://example.com</link>
     <description>Product feed for Football city</description>
-    <lastBuildDate>Sun, 05 Jul 2026 09:54:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:21:41 GMT</lastBuildDate>
+    <item>
+      <g:id>94a01501-e8ea-4dd0-b783-f09ba8ace5fa</g:id>
+      <g:title>חליפת ילדים פורטוגל בית 2026</g:title>
+      <g:description>חליפת ילדים פורטוגל בית 2026</g:description>
+      <g:link>https://example.com/product/chlypt-yldym-pvrtvgl-byt-2026-dlr0r7</g:link>
+      <g:image_link>https://example.com/assets/product-1783246315034-257jn.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.90 ILS</g:price>
+      <g:sale_price>109.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Football city</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מונדיאל 2026</g:product_type>
+    </item>
+    <item>
+      <g:id>b88611b8-e9d4-4a1c-834c-28661076d8d3</g:id>
+      <g:title>חליפת ילדים אנגליה בית 2026</g:title>
+      <g:description>חליפת ילדים אנגליה בית 2026</g:description>
+      <g:link>https://example.com/product/chlypt-yldym-anglyh-byt-2026-nsthe4</g:link>
+      <g:image_link>https://example.com/assets/product-1783246199242-cc9raw.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.90 ILS</g:price>
+      <g:sale_price>109.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Football city</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מונדיאל 2026</g:product_type>
+    </item>
+    <item>
+      <g:id>405f7698-9f2b-4e5b-bff9-bd99ec886eb9</g:id>
+      <g:title>חליפת ילדים גרמניה בית 2026</g:title>
+      <g:description>חליפת ילדים גרמניה בית 2026</g:description>
+      <g:link>https://example.com/product/chlypt-yldym-grmnyh-byt-2026-otno1e</g:link>
+      <g:image_link>https://example.com/assets/product-1783246105632-hu0r3s.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.90 ILS</g:price>
+      <g:sale_price>109.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Football city</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מונדיאל 2026</g:product_type>
+    </item>
+    <item>
+      <g:id>645a0062-2882-4de2-b133-03b53a97dc60</g:id>
+      <g:title>חליפת ילדים צרפת בית 2026</g:title>
+      <g:description>חליפת ילדים צרפת בית 2026</g:description>
+      <g:link>https://example.com/product/chlypt-yldym-tsrpt-byt-2026-j9mjho</g:link>
+      <g:image_link>https://example.com/assets/product-1783245760057-3w9xx.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.90 ILS</g:price>
+      <g:sale_price>109.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Football city</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מונדיאל 2026</g:product_type>
+    </item>
+    <item>
+      <g:id>0fadfd88-6e24-4cf6-9fd7-6399219bc449</g:id>
+      <g:title>חליפת ילדים ברזיל בית 2026</g:title>
+      <g:description>חליפת ילדים ברזיל בית 2026</g:description>
+      <g:link>https://example.com/product/chlypt-yldym-brzyl-byt-2026-fly4wo</g:link>
+      <g:image_link>https://example.com/assets/product-1783245716998-b6hvv9.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.90 ILS</g:price>
+      <g:sale_price>109.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Football city</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מונדיאל 2026</g:product_type>
+    </item>
     <item>
       <g:id>57f7139b-fd38-45b5-8da3-342e6f68ec71</g:id>
-      <g:title>חליפת ארגנטינה בית 2026</g:title>
-      <g:description>חליפת ארגנטינה בית 2026</g:description>
-      <g:link>https://example.com/product/chlypt-argntynh-byt-2026-s4r3hb</g:link>
+      <g:title>חליפת ילדים ארגנטינה בית 2026</g:title>
+      <g:description>חליפת ילדים ארגנטינה בית 2026</g:description>
+      <g:link>https://example.com/product/chlypt-yldym-argntynh-byt-2026-8gq7v9</g:link>
+      <g:image_link>https://example.com/assets/product-1783245652066-5rw6io.webp</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>0.00 ILS</g:price>
+      <g:price>149.90 ILS</g:price>
+      <g:sale_price>109.90 ILS</g:sale_price>
       <g:condition>new</g:condition>
       <g:brand>Football city</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -19,9 +91,9 @@
     </item>
     <item>
       <g:id>de8c388a-94d6-4529-818d-9e81b6a27986</g:id>
-      <g:title>חליפת ברצלונה בית עונת 26/27</g:title>
-      <g:description>חליפת ברצלונה בית עונת 26/27</g:description>
-      <g:link>https://example.com/product/chlypt-brtslvnh-byt-avnt-2627-a18ohg</g:link>
+      <g:title>חליפת ילדים ברצלונה בית עונת 26/27</g:title>
+      <g:description>חליפת ילדים ברצלונה בית עונת 26/27</g:description>
+      <g:link>https://example.com/product/chlypt-yldym-brtslvnh-byt-avnt-2627-0mlinj</g:link>
       <g:image_link>https://example.com/assets/product-1783239144491-xuvhfd.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783239149931-c80vy.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
@@ -34,9 +106,9 @@
     </item>
     <item>
       <g:id>44985774-00c5-4c55-8f95-9197ba0d3380</g:id>
-      <g:title>חליפת ריאל מדריד בית עונת 26/27</g:title>
-      <g:description>חליפת ריאל מדריד בית עונת 26/27</g:description>
-      <g:link>https://example.com/product/chlypt-ryal-mdryd-byt-avnt-2627-ylkal2</g:link>
+      <g:title>חליפת ילדים ריאל מדריד בית עונת 26/27</g:title>
+      <g:description>חליפת ילדים ריאל מדריד בית עונת 26/27</g:description>
+      <g:link>https://example.com/product/chlypt-yldym-ryal-mdryd-byt-avnt-2627-6b7s78</g:link>
       <g:image_link>https://example.com/assets/product-1783236910623-ali97n.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783236916641-i6dt3.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>

@@ -80,23 +80,59 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 3**
+**Total active products: 8**
 
-### חליפת ארגנטינה בית 2026
-https://example.com/product/chlypt-argntynh-byt-2026-s4r3hb
-- Price: 0.00 ILS
+### חליפת ילדים פורטוגל בית 2026
+https://example.com/product/chlypt-yldym-pvrtvgl-byt-2026-dlr0r7
+- Price: 109.90 ILS (sale, was 149.90 ILS)
 - Availability: In stock
 - Category: מונדיאל 2026
+- Image: https://example.com/assets/product-1783246315034-257jn.webp
 
-### חליפת ברצלונה בית עונת 26/27
-https://example.com/product/chlypt-brtslvnh-byt-avnt-2627-a18ohg
+### חליפת ילדים אנגליה בית 2026
+https://example.com/product/chlypt-yldym-anglyh-byt-2026-nsthe4
+- Price: 109.90 ILS (sale, was 149.90 ILS)
+- Availability: In stock
+- Category: מונדיאל 2026
+- Image: https://example.com/assets/product-1783246199242-cc9raw.webp
+
+### חליפת ילדים גרמניה בית 2026
+https://example.com/product/chlypt-yldym-grmnyh-byt-2026-otno1e
+- Price: 109.90 ILS (sale, was 149.90 ILS)
+- Availability: In stock
+- Category: מונדיאל 2026
+- Image: https://example.com/assets/product-1783246105632-hu0r3s.webp
+
+### חליפת ילדים צרפת בית 2026
+https://example.com/product/chlypt-yldym-tsrpt-byt-2026-j9mjho
+- Price: 109.90 ILS (sale, was 149.90 ILS)
+- Availability: In stock
+- Category: מונדיאל 2026
+- Image: https://example.com/assets/product-1783245760057-3w9xx.webp
+
+### חליפת ילדים ברזיל בית 2026
+https://example.com/product/chlypt-yldym-brzyl-byt-2026-fly4wo
+- Price: 109.90 ILS (sale, was 149.90 ILS)
+- Availability: In stock
+- Category: מונדיאל 2026
+- Image: https://example.com/assets/product-1783245716998-b6hvv9.webp
+
+### חליפת ילדים ארגנטינה בית 2026
+https://example.com/product/chlypt-yldym-argntynh-byt-2026-8gq7v9
+- Price: 109.90 ILS (sale, was 149.90 ILS)
+- Availability: In stock
+- Category: מונדיאל 2026
+- Image: https://example.com/assets/product-1783245652066-5rw6io.webp
+
+### חליפת ילדים ברצלונה בית עונת 26/27
+https://example.com/product/chlypt-yldym-brtslvnh-byt-avnt-2627-0mlinj
 - Price: 109.90 ILS (sale, was 149.90 ILS)
 - Availability: In stock
 - Category: חליפות ילדים
 - Image: https://example.com/assets/product-1783239144491-xuvhfd.webp
 
-### חליפת ריאל מדריד בית עונת 26/27
-https://example.com/product/chlypt-ryal-mdryd-byt-avnt-2627-ylkal2
+### חליפת ילדים ריאל מדריד בית עונת 26/27
+https://example.com/product/chlypt-yldym-ryal-mdryd-byt-avnt-2627-6b7s78
 - Price: 109.90 ILS (sale, was 149.90 ILS)
 - Availability: In stock
 - Category: חליפות ילדים
